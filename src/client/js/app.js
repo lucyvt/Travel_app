@@ -1,6 +1,6 @@
 /* Global Variables */
 let baseURL = 'http://api.geonames.org/searchJSON?q=';
-let userName = '&maxRows=10&username=tringa';
+let userName = '&maxRows=10&username=lucytodd96';
 let weatherApiURL = 'https://api.weatherbit.io/v2.0'
 let forecast = '/forecast/daily?'
 let current = '/current?'
